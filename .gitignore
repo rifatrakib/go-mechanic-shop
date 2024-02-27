@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+# vendors
+vendor/
+
+# secrets
+*.env
+config.json
+config.yaml
